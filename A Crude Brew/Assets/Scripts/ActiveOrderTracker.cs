@@ -182,6 +182,7 @@ public class ActiveOrderTracker : MonoBehaviour
 
     /// <summary>
     /// Function that fires when a given order is not completed within it's timeframe;
+    /// this doesn't fucking work, thanks andrew
     /// </summary>
     private void OrderFailed()
     {
